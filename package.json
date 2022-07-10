@@ -1,0 +1,20 @@
+{
+  "name": "dd-dp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "algoliasearch": "4.8.0",
+    "react": "17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "husky": "7.0.4",
+    "typescript": "4.6.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
